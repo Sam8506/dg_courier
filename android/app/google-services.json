@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120103103929",
+    "project_id": "digital-courier-34438",
+    "storage_bucket": "digital-courier-34438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120103103929:android:69d3c6d93fc40f47ad1a68",
+        "android_client_info": {
+          "package_name": "com.example.dg_courier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120103103929-odi1to8en45rdm3p70t5bmkdfoehgni6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dg_courier",
+            "certificate_hash": "3d52af5c39ebdde6a1cbd135d30e978987d40288"
+          }
+        },
+        {
+          "client_id": "120103103929-hov3s5to50o3658979v3pa8ji5ffqvn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3F67h3FaOrbJaSeChmju_xoeK7AOoyC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120103103929-hov3s5to50o3658979v3pa8ji5ffqvn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
